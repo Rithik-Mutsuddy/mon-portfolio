@@ -1,0 +1,13 @@
+{
+  "student": "Je suis un étudiant",
+  "apprentice": "Je suis un apprenti",
+  "age": "{{age}} ans",
+  "about": "À propos de moi",
+  "experience": "Expérience",
+  "education": "Études",
+  "softskills": "Qualités",
+  "languages": "Langues",
+  "hobbies": "Loisirs",
+  "viewCV": "Voir le CV",
+  "mode": "Mode clair"
+}

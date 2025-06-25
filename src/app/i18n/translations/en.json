@@ -1,0 +1,13 @@
+{
+  "student": "I'm a student",
+  "apprentice": "I'm an apprentice",
+  "age": "{{age}} years old",
+  "about": "About me",
+  "experience": "Experience",
+  "education": "Education",
+  "softskills": "Soft skills",
+  "languages": "Languages",
+  "hobbies": "Hobbies",
+  "viewCV": "View CV",
+  "mode": "Light mode"
+}
